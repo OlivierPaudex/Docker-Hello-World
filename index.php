@@ -1,3 +1,3 @@
 <?php
-  echo "Bonjour le vieux monde";
+  echo "Bonjour le nouveau monde";
 ?>
